@@ -4,7 +4,7 @@ from alfworld.agents.environment import get_environment
 
 # Configure DSPy with OpenAI's GPT model
 import dspy
-lm = dspy.LM(model='gpt-4o-mini', api_key='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')
+lm = dspy.LM(model='gpt-4o-mini', api_key='key')
 dspy.configure(lm=lm)
 
 # Define a DSPy module to choose actions
