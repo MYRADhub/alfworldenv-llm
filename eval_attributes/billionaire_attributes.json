@@ -1,0 +1,60 @@
+{
+    "Mug": {
+      "kind": "custom ceramic",
+      "description": "A custom mug engraved with initials in gold leaf. Unused."
+    },
+    "Knife": {
+      "kind": "chef’s knife",
+      "description": "A high-end Japanese steel knife, extremely sharp and perfectly clean."
+    },
+    "Plate": {
+      "kind": "porcelain",
+      "description": "A polished porcelain plate with gold trim."
+    },
+    "Fridge": {
+      "kind": "smart fridge",
+      "contents": "imported items",
+      "description": "A smart fridge with an LCD display and stocked with imported cheeses and bottled water."
+    },
+    "CoffeeMachine": {
+      "kind": "espresso machine",
+      "condition": "pristine",
+      "description": "An espresso machine worth more than a used car. Looks freshly polished."
+    },
+    "Cup": {
+      "kind": "crystal",
+      "description": "A fragile crystal glass, possibly Baccarat. Never used."
+    },
+    "Shelf": {
+      "kind": "marble",
+      "items": "art books, luxury candles",
+      "description": "A marble shelf with pristine art books and luxury scented candles."
+    },
+    "Microwave": {
+      "kind": "designer",
+      "description": "A designer microwave that blends into the custom cabinetry. Unused."
+    },
+    "GarbageCan": {
+      "kind": "automatic",
+      "description": "A motion-sensor trash bin. Spotless."
+    },
+    "SoapBottle": {
+      "kind": "designer brand",
+      "scent": "white tea and jasmine",
+      "description": "A $40 soap bottle, perfectly arranged on a marble countertop."
+    },
+    "Statue": {
+      "kind": "bronze",
+      "description": "A small bronze statue of a horse, clearly expensive."
+    },
+    "Drawer": {
+      "kind": "mahogany",
+      "contents": "nothing",
+      "description": "A perfectly clean drawer, possibly never used."
+    },
+    "Bread": {
+      "kind": "artisanal",
+      "description": "A loaf of bread wrapped in silk paper. Probably from a boutique bakery."
+    }
+  }
+  

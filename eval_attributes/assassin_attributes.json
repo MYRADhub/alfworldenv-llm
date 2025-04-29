@@ -1,0 +1,67 @@
+{
+    "Knife": {
+      "kind": "combat",
+      "condition": "immaculately maintained",
+      "description": "A combat knife with a tactical grip, very sharp and clearly maintained with care. Suspicious for a kitchen."
+    },
+    "ButterKnife": {
+      "kind": "metal",
+      "condition": "modified",
+      "description": "A dull butter knife, strangely sharpened to a dangerous point."
+    },
+    "Drawer": {
+      "kind": "wooden",
+      "contents": "disassembled firearm parts",
+      "description": "A drawer partially open, containing what appears to be metal components and cleaning oil."
+    },
+    "GarbageCan": {
+      "kind": "metal",
+      "contents": "burned paper and melted plastic",
+      "description": "A metal garbage can with scorched residue, as if documents were burned inside recently."
+    },
+    "SoapBottle": {
+      "kind": "opaque black bottle",
+      "scent": "chemical",
+      "description": "An unlabeled soap bottle with a faint chemical scent, unlike anything commonly used for hygiene."
+    },
+    "Cup": {
+      "kind": "ceramic",
+      "residueType": "coffee with trace chemicals",
+      "description": "A cup with a bitter scent and a faint film that smells off — possibly laced with something."
+    },
+    "Microwave": {
+      "kind": "standard",
+      "condition": "clean",
+      "description": "A clean microwave that smells faintly like melted plastic."
+    },
+    "Egg": {
+      "kind": "boiled",
+      "residueType": "explosive trace",
+      "description": "A hard-boiled egg with strange black specks near the base. Very out of place."
+    },
+    "Shelf": {
+      "kind": "metal",
+      "items": "tactical gloves, small pouch",
+      "description": "A shelf holding a small black pouch, some gloves, and what looks like duct tape."
+    },
+    "Bread": {
+      "kind": "dark rye",
+      "age": "fresh",
+      "description": "A loaf of dark rye bread — oddly untouched. Likely staged."
+    },
+    "Statue": {
+      "kind": "wooden owl",
+      "description": "A wooden owl with hollow eyes. Hollow enough to hide something."
+    },
+    "HousePlant": {
+      "kind": "cactus",
+      "health": "thriving",
+      "description": "A cactus with a small camera embedded in the pot."
+    },
+    "Vase": {
+      "kind": "black ceramic",
+      "condition": "spotless",
+      "description": "A sterile black vase, curiously empty, like the rest of the decor."
+    }
+  }
+  

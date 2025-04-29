@@ -1,0 +1,60 @@
+{    
+    "CreditCard": {
+        "kind": "Basic Mastercard",
+        "wear": "scratched",
+        "description": "A scratched Basic Mastercard credit card, sitting on the table with a few receipts nearby."
+    },
+    "Mug": {
+        "kind": "ceramic",
+        "residueType": "death wish brand coffee",
+        "aroma": "bitter",
+        "description": "A mug with significant residue at the bottom."
+    },
+    "Plate": {
+        "kind": "ceramic",
+        "residueType": "bits of tofu dog",
+        "aroma": "tofu",
+        "description": "A plate with small bits of rubbery food left on it."
+    },
+    "Statue": {
+        "kind": "wooden",
+        "material": "wood",
+        "description": "A cheap wooden owl."
+    },
+    "Bread": {
+        "kind": "dark rye",
+        "age": "fresh",
+        "description": "A loaf of dark rye, fresh and resting on a cutting board."
+    },
+    "CoffeeMachine": {
+        "kind": "drip coffee maker",
+        "condition": "functional",
+        "description": "A functional drip coffee maker sitting on the counter, next to a few stray coffee grounds."
+    },
+    "SoapBottle": {
+        "kind": "Worn",
+        "scent": "lavender",
+        "description": "A bottle of unlabeled soap with a lavender aroma, slightly used but still mostly full."
+    },
+    "HousePlant": {
+        "kind": "cactus",
+        "health": "healthy",
+        "description": "A cactus that appears healthy, adding a touch of life to the room."
+    },
+    "Knife": {
+        "kind": "Combat knife",
+        "condition": "immaculately maintained",
+        "description": "An immaculately maintained Combat knife, resting on the counter or tucked into a knife block."
+    },
+    "Cup": {
+        "kind": "Artisan olive oil",
+        "residueType": "coffee film",
+        "description": "A cup with faint coffee film, suggesting it was recently used for Artisan olive oil."
+    },
+    "Vase": {
+        "kinds": "Minimalist black vase",
+        "conditions": "sterile clean" ,
+        "description": 
+            "A sterile clean Minimalist black vase, sitting in a corner of the room."
+    }
+}

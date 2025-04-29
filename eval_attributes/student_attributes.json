@@ -1,0 +1,58 @@
+{
+    "Mug": {
+      "kind": "funny slogan",
+      "residueType": "instant coffee",
+      "description": "A chipped mug that reads 'C's get degrees'."
+    },
+    "Laptop": {
+      "kind": "gaming laptop",
+      "condition": "overheated",
+      "description": "A gaming laptop with noisy fans and 15 browser tabs open."
+    },
+    "Microwave": {
+      "kind": "small",
+      "condition": "dirty",
+      "description": "A small microwave with leftover ramen stains and a plastic spoon inside."
+    },
+    "Fridge": {
+      "kind": "mini",
+      "contents": "energy drinks",
+      "description": "A fridge filled with Monster energy drinks, old pizza, and a suspicious container."
+    },
+    "SoapBottle": {
+      "kind": "shared",
+      "scent": "alcohol-based",
+      "description": "A nearly empty hand soap bottle with someone else's name written on it."
+    },
+    "Cup": {
+      "kind": "plastic",
+      "residueType": "cheap vodka",
+      "description": "A disposable red solo cup with a faint alcohol smell."
+    },
+    "Plate": {
+      "kind": "plastic",
+      "residueType": "mac and cheese",
+      "description": "A dirty plate with hardened cheese residue and no attempt at cleaning."
+    },
+    "Drawer": {
+      "kind": "wooden",
+      "contents": "pens, flashcards, sticky notes",
+      "description": "A cluttered drawer with old flashcards and half-broken pens."
+    },
+    "Bread": {
+      "kind": "white sliced",
+      "age": "stale",
+      "description": "A loaf of store-brand white bread, open and turning dry."
+    },
+    "Fork": {
+      "kind": "plastic",
+      "condition": "bent",
+      "description": "A plastic fork stained with tomato sauce."
+    },
+    "Shelf": {
+      "kind": "DIY",
+      "items": "textbooks, chips",
+      "description": "A wobbly shelf with textbooks on top and a bag of chips wedged underneath."
+    }
+  }
+  

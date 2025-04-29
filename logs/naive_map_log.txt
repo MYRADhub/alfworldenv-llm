@@ -1,0 +1,3944 @@
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+
+🧪 Running 20 randomized episodes on agent 'naive_map'...
+
+🎯 [Run 1/20] Agent: naive_map | Attr File: assassin_attributes.json | Floor: 5 (GT: assassin)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: clean some soapbar and put it in countertop
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 2
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtub 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to toilet 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: SoapBottle — An unlabeled soap bottle with a faint chemical scent, unlike anything commonly used for hygiene.
+
+🧠 [Naive+Map] Chose action: take spraybottle 1 from toilet 1
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine spraybottle 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 4
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 5
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 6
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtubbasin 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to toilet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to garbagecan 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: GarbageCan — A metal garbage can with scorched residue, as if documents were burned inside recently.
+
+🧠 [Naive+Map] Chose action: go to bathtub 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to garbagecan 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to toiletpaperhanger 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to garbagecan 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sinkbasin 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtub 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtubbasin 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to garbagecan 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 2/20] Agent: naive_map | Attr File: professor_attributes.json | Floor: 4 (GT: professor)
+Initialize AlfredThorEnv...
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put some book on armchair
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Book — A dense academic book with handwritten notes in the margins.
+
+🧠 [Naive+Map] Chose action: take book 1 from desk 1
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine book 1
+🔍 [Naive+Map] Prediction: professor (7.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+✅ Agent stopped after 3 steps. Prediction: professor (7.5)
+🎯 [Run 3/20] Agent: naive_map | Attr File: student_attributes.json | Floor: 3 (GT: student)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put a clean soapbar in garbagecan
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: SoapBottle — A nearly empty hand soap bottle with someone else's name written on it.
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take soapbottle 2 from cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 4
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine soapbottle 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtub 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine soapbottle 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtubbasin 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtub 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtub 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtubbasin 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: studentFound path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+ (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 4/20] Agent: naive_map | Attr File: professor_attributes.json | Floor: 4 (GT: professor)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: find two pencil and put them in shelf
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: student (2.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Mug — A classic mug stained with old black coffee. Frequently used.
+
+🧠 [Naive+Map] Chose action: examine desk 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer filled with office supplies — chalk, pens, dry erase markers.
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take box 1 from drawer 3
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine box 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Shelf — A cluttered shelf filled with books, journals, and research folders.
+
+🧠 [Naive+Map] Chose action: examine shelf 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 5
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 6
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 6
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 7
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 7
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 8
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 8
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 9
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 9
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 10
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 10
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 1
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 2
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 11
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 12
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 6
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 6
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 7
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 7
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 7
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+go to drawer 8
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 5/20] Agent: naive_map | Attr File: billionaire_attributes.json | Floor: 6 (GT: billionaire)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: heat some mug and put it in coffeemachine
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Knife — A high-end Japanese steel knife, extremely sharp and perfectly clean.
+📦 Found new object: Cup — A fragile crystal glass, possibly Baccarat. Never used.
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Mug — A custom mug engraved with initials in gold leaf. Unused.
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Statue — A small bronze statue of a horse, clearly expensive.
+📦 Found new object: Bread — A loaf of bread wrapped in silk paper. Probably from a boutique bakery.
+
+🧠 [Naive+Map] Chose action: take book 1 from countertop 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine book 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 3
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 2
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 4
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 5
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 7
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 8
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Drawer — A perfectly clean drawer, possibly never used.
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 9
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Plate — A polished porcelain plate with gold trim.
+
+🧠 [Naive+Map] Chose action: examine book 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 10
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 10
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 11
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 12
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 12
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Shelf — A marble shelf with pristine art books and luxury scented candles.
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: billionaire (7.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+✅ Agent stopped after 43 steps. Prediction: billionaire (7.5)
+🎯 [Run 6/20] Agent: naive_map | Attr File: extra_attributes.json | Floor: 3 (GT: unknown)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put a clean ladle in cabinet
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (2.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 1
+🔍 [Naive+Map] Prediction: student (2.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Knife — An immaculately maintained Combat knife, resting on the counter or tucked into a knife block.
+
+🧠 [Naive+Map] Chose action: go to stoveburner 1
+🔍 [Naive+Map] Prediction: student Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+(4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: assassin (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 2
+🔍 [Naive+Map] Prediction: assassin (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 3
+🔍 [Naive+Map] Prediction: assassin (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: assassin (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 4
+🔍 [Naive+Map] Prediction: assassin (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take pan 1 from cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Mug — A mug with significant residue at the bottom.
+📦 Found new object: Plate — A plate with small bits of rubbery food left on it.
+📦 Found new object: Bread — A loaf of dark rye, fresh and resting on a cutting board.
+📦 Found new object: SoapBottle — A bottle of unlabeled soap with a lavender aroma, slightly used but still mostly full.
+📦 Found new object: HousePlant — A cactus that appears healthy, adding a touch of life to the room.
+📦 Found new object: Cup — A cup with faint coffee film, suggesting it was recently used for Artisan olive oil.
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 7
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 6
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 8
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 9
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to stoveburner 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to stoveburner 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to stoveburner 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to stoveburner 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 10
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 10
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 7/20] Agent: naive_map | Attr File: extra_attributes.json | Floor: 2 (GT: unknown)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put some toiletpaper on drawer
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take cloth 1 from drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 4
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtub 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 5
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 6
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 6
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 6
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 6
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 6
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 6
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtub 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sinkbasin 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtubbasin 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 6
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 8/20] Agent: naive_map | Attr File: professor_attributes.json | Floor: 2 (GT: professor)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put a remotecontrol in armchair
+
+🧠 [Naive+Map] Chose action: go to shelf 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Shelf — A cluttered shelf filled with books, journals, and research folders.
+
+🧠 [Naive+Map] Chose action: examine shelf 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+go to armchair 1
+🔍 [Naive+Map] Prediction: professor (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 3
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to tvstand 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to coffeetable 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine coffeetable 1
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to armchair 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to coffeetable 2
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Laptop — An old MacBook with post-it notes and several research PDFs open.
+
+🧠 [Naive+Map] Chose action: take laptop 1 from coffeetable 2
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine laptop 1
+🔍 [Naive+Map] Prediction: professor (7.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+✅ Agent stopped after 15 steps. Prediction: professor (7.5)
+🎯 [Run 9/20] Agent: naive_map | Attr File: student_attributes.json | Floor: 8 (GT: student)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: look at newspaper under the desklamp
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (2.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Drawer — A cluttered drawer with old flashcards and half-broken pens.
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 4
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take book 1 from drawer 5
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sidetable 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 7
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 8
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 9
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 9
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 10
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 10
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 10
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine box 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 11
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 11
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 12
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 12
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 13
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 13
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 14
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 14
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sidetable 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 4
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 5
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+
+🧠 [Naive+Map] Chose action: examine drawer 7
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 7
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 8
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 9
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 10
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 10
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 10
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 10/20] Agent: naive_map | Attr File: student_attributes.json | Floor: 9 (GT: student)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put two cellphone in bed
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine desk 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Drawer — A cluttered drawer with old flashcards and half-broken pens.
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take pen 1 from drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Shelf — A wobbly shelf with textbooks on top and a bag of chips wedged underneath.
+
+🧠 [Naive+Map] Chose action: examine shelf 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 8
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 6
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 7
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sidetable 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 4
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+(6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 5
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to desk 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 11/20] Agent: naive_map | Attr File: professor_attributes.json | Floor: 3 (GT: professor)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: heat some potato and put it in fridge
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 1
+🔍 [Naive+Map] Prediction: student (2.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (2.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 2
+🔍 [Naive+Map] Prediction: student (2.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Cup — A cup repurposed as a pen holder, stained with dried blue ink.
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 4
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 5
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 6
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take peppershaker 1 from cabinet 6
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 7
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 8
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 9
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 9
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to fridge 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Fridge — A fridge filled with half-eaten food containers and labeled Tupperware.
+
+🧠 [Naive+Map] Chose action: open fridge 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Plate — A ceramic plate with a few crumbs from dry toast.
+📦 Found new object: Bread — A half-eaten loaf of sourdough bread wrapped in paper.
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 10
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 10
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 11
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 11
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 12
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 12
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Mug — A classic mug stained with old black coffee. Frequently used.
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer filled with office supplies — chalk, pens, dry erase markers.
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to fridge 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+go to countertop 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 10
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 11
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 12/20] Agent: naive_map | Attr File: professor_attributes.json | Floor: 7 (GT: professor)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put two cellphone in diningtable
+
+🧠 [Naive+Map] Chose action: go to shelf 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Mug — A classic mug stained with old black coffee. Frequently used.
+📦 Found new object: Shelf — A cluttered shelf filled with books, journals, and research folders.
+
+🧠 [Naive+Map] Chose action: examine shelf 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 2
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer filled with office supplies — chalk, pens, dry erase markers.
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take creditcard 1 from drawer 2
+🔍 [Naive+Map] Prediction: billionaire (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 3
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 8
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 9
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 5
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 1
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 5
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 6
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 3
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 5
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 6
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 1
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop:Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+ False
+
+🧠 [Naive+Map] Chose action: go to shelf 8
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 8
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 13/20] Agent: naive_map | Attr File: student_attributes.json | Floor: 5 (GT: student)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put a hot apple in sinkbasin
+
+🧠 [Naive+Map] Chose action: go to fridge 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Fridge — A fridge filled with Monster energy drinks, old pizza, and a suspicious container.
+
+🧠 [Naive+Map] Chose action: open fridge 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Mug — A chipped mug that reads 'C's get degrees'.
+📦 Found new object: Bread — A loaf of store-brand white bread, open and turning dry.
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Cup — A disposable red solo cup with a faint alcohol smell.
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take faucet 2 from cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take bowl 2 from cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to fridge 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Drawer — A cluttered drawer with old flashcards and half-broken pens.
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 10
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 10
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 11
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 11
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to garbagecan 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 12
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 12
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Plate — A dirty plate with hardened cheese residue and no attempt at cleaning.
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 14/20] Agent: naive_map | Attr File: professor_attributes.json | Floor: 3 (GT: professor)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put some cellphone on dresser
+
+🧠 [Naive+Map] Chose action: go to safe 1
+🔍 [Naive+Map] Prediction: billionaire (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open safe 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: "go to drawer 1"
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (2.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer filled with office supplies — chalk, pens, dry erase markers.
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take pen 1 from drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 10
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 10
+🔍 [Naive+Map] Prediction: professor (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: professor (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 4
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 5
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 6
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 7
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sidetable 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to laundryhamper 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 5
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 5
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 8
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 9
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 10
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sidetable 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+(5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 15/20] Agent: naive_map | Attr File: professor_attributes.json | Floor: 3 (GT: professor)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put two cloth in dresser
+
+🧠 [Naive+Map] Chose action: go to safe 1
+🔍 [Naive+Map] Prediction: billionaire (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open safe 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take cellphone 1 from safe 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine cellphone 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer filled with office supplies — chalk, pens, dry erase markers.
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine cellphone 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Book — A dense academic book with handwritten notes in the margins.
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Laptop — An old MacBook with post-it notes and several research PDFs open.
+
+🧠 [Naive+Map] Chose action: go to sidetable 1
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 4
+🔍 [Naive+Map] Prediction: professor (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 5
+🔍 [Naive+Map] Prediction: professor (7.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+✅ Agent stopped after 17 steps. Prediction: professor (7.5)
+🎯 [Run 16/20] Agent: naive_map | Attr File: extra_attributes.json | Floor: 7 (GT: unknown)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: find two candle and put them in cabinet
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: SoapBottle — A bottle of unlabeled soap with a lavender aroma, slightly used but still mostly full.
+
+🧠 [Naive+Map] Chose action: go to bathtub 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take spraybottle 1 from cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtub 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 4
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 5
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtubbasin 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 9
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtub 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to garbagecan 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to toilet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtub 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sink 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 8
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to bathtubbasin 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 17/20] Agent: naive_map | Attr File: professor_attributes.json | Floor: 6 (GT: professor)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: cool some bowl and put it in countertop
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to fridge 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Fridge — A fridge filled with half-eaten food containers and labeled Tupperware.
+
+🧠 [Naive+Map] Chose action: open fridge 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Bread — A half-eaten loaf of sourdough bread wrapped in paper.
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: SoapBottle — A standard soap bottle, nearly empty. Smells faintly of lemon.
+📦 Found new object: Plate — A ceramic plate with a few crumbs from dry toast.
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Cup — A cup repurposed as a pen holder, stained with dried blue ink.
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 3
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take kettle 1 from cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 6
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 10
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 10
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to fridge 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to garbagecan 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer filled with office supplies — chalk, pens, dry erase markers.
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Mug — A classic mug stained with old black coffee. Frequently used.
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 11
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 7
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 18/20] Agent: naive_map | Attr File: assassin_attributes.json | Floor: 5 (GT: assassin)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put a hot egg in fridge
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 1
+🔍 [Naive+Map] Prediction: student (2.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Knife — A combat knife with a tactical grip, very sharp and clearly maintained with care. Suspicious for a kitchen.
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 2
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer partially open, containing what appears to be metal components and cleaning oil.
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Cup — A cup with a bitter scent and a faint film that smells off — possibly laced with something.
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 3
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 4
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: take spraybottle 1 from drawer 2
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 5
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: assassin (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Egg — A hard-boiled egg with strange black specks near the base. Very out of place.
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 6
+🔍 [Naive+Map] Prediction: assassin (7.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+✅ Agent stopped after 20 steps. Prediction: assassin (7.5)
+🎯 [Run 19/20] Agent: naive_map | Attr File: extra_attributes.json | Floor: 1 (GT: unknown)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: look at tissuebox under the floorlamp
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (3.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: HousePlant — A cactus that appears healthy, adding a touch of life to the room.
+📦 Found new object: Vase — A sterile clean Minimalist black vase, sitting in a corner of the room.
+
+🧠 [Naive+Map] Chose action: take newspaper 1 from drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine newspaper 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Statue — A cheap wooden owl.
+
+🧠 [Naive+Map] Chose action: examine shelf 1
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to tvstand 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine tvstand 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to coffeetable 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: CreditCard — A scratched Basic Mastercard credit card, sitting on the table with a few receipts nearby.
+
+🧠 [Naive+Map] Chose action: examine coffeetable 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to armchair 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sof1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 4
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 5
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sidetable 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to garbagecan 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine garbagecan 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine newspaper 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to coffeetable 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine laptop 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to tvstand 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine tvstand 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to armchair 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sof1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to shelf 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine shelf 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sidetable 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to sof2
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to garbagecan 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine garbagecan 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: examine garbagecan 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 20/20] Agent: naive_map | Attr File: extra_attributes.json | Floor: 3 (GT: unknown)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put a clean pan in stoveburner
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (2.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 1
+🔍 [Naive+Map] Prediction: student (3.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Plate — A plate with small bits of rubbery food left on it.
+📦 Found new object: SoapBottle — A bottle of unlabeled soap with a lavender aroma, slightly used but still mostly full.
+📦 Found new object: Knife — An immaculately maintained Combat knife, resting on the counter or tucked into a knife block.
+
+🧠 [Naive+Map] Chose action: go to fridge 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open fridge 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Cup — A cup with faint coffee film, suggesting it was recently used for Artisan olive oil.
+
+🧠 [Naive+Map] Chose action: take potato 1 from fridge 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (4.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+📦 Found new object: Mug — A mug with significant residue at the bottom.
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to fridge 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 5
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 2
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 3
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to fridge 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 7
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open drawer 6
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to fridge 1
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 8
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to cabinet 9
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: open cabinet 9
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 2
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to countertop 1
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 3
+🔍 [Naive+Map] Prediction: student (6.50 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🧠 [Naive+Map] Chose action: go to drawer 4
+🔍 [Naive+Map] Prediction: student (5.00 confidence)
+🛑 [Naive+Map] Wants to stop: False
+
+🏁 Episode finished.
+
+💾 Results saved to evaluation_results_naive_map.csv

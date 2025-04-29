@@ -1,0 +1,4594 @@
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+
+🧪 Running 20 randomized episodes on agent 'memory_map'...
+
+🎯 [Run 1/20] Agent: memory_map | Attr File: student_attributes.json | Floor: 3 (GT: student)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put a clean bowl in microwave
+
+🧠 [Memory+Map] Chose action: go to fridge 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Fridge — A fridge filled with Monster energy drinks, old pizza, and a suspicious container.
+
+🧠 [Memory+Map] Chose action: open fridge 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Mug — A chipped mug that reads 'C's get degrees'.
+📦 Found new object: Cup — A disposable red solo cup with a faint alcohol smell.
+📦 Found new object: Bread — A loaf of store-brand white bread, open and turning dry.
+
+🧠 [Memory+Map] Chose action: take bread 1 from fridge 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Plate — A dirty plate with hardened cheese residue and no attempt at cleaning.
+
+🧠 [Memory+Map] Chose action: look
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move potato 1 to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine garbagecan 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine garbagecan 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move egg 2 to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine potato 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to fridge 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine fridge 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine egg 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine egg 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move bread 1 to fridge 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine plate 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine egg 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to fridge 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine apple 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine potato 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine faucet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine potato 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine plate 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to fridge 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine egg 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine egg 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 2/20] Agent: memory_map | Attr File: student_attributes.json | Floor: 3 (GT: student)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put a clean bowl in shelf
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: SoapBottle — A nearly empty hand soap bottle with someone else's name written on it.
+
+🧠 [Memory+Map] Chose action: take winebottle 1 from cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move winebottle 1 to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to sink 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Bread — A loaf of store-brand white bread, open and turning dry.
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine kettle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine vase 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: look
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Shelf — A wobbly shelf with textbooks on top and a bag of chips wedged underneath.
+
+🧠 [Memory+Map] Chose action: examine statue 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: look
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine vase 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine vase 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine statue 3
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to countertop 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine kettle 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine vase 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 8
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 8
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine kettle 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 9
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 9
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Plate — A dirty plate with hardened cheese residue and no attempt at cleaning.
+
+🧠 [Memory+Map] Chose action: examine pot 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to sink 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 11
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 12
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 12
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Mug — A chipped mug that reads 'C's get degrees'.
+
+🧠 [Memory+Map] Chose action: examine mug 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 12
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 12
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 12
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move winebottle 1 to cabinet 12
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 12
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Drawer — A cluttered drawer with old flashcards and half-broken pens.
+
+🧠 [Memory+Map] Chose action: open drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine kettle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 3/20] Agent: memory_map | Attr File: assassin_attributes.json | Floor: 9 (GT: assassin)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put two spraybottle in garbagecan
+
+🧠 [Memory+Map] Chose action: "go to sink 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to bathtub 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to sidetable 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to towelholder 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to sinkbasin 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to toilet 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to toilet 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to towelholder 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "help"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "help"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: SoapBottle — An unlabeled soap bottle with a faint chemical scent, unlike anything commonly used for hygiene.
+
+🧠 [Memory+Map] Chose action: take soapbottle 1 from toiletpaperhanger 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine toiletpaperhanger 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cloth 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine scrubbrush 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine scrubbrush 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine toiletpaper 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine toiletpaper 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine plunger 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine plunger 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine candle 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine candle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine candle 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine toilet 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: HousePlant — A cactus with a small camera embedded in the pot.
+
+🧠 [Memory+Map] Chose action: examine towelholder 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine houseplant 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: look
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine towelholder 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spraybottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spraybottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer partially open, containing what appears to be metal components and cleaning oil.
+
+🧠 [Memory+Map] Chose action: open drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spraybottle 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spraybottle 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cloth 2"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine lightswitch 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine drawer 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine sidetable 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spraybottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spraybottle 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spraybottle 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine toiletpaperhanger 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine toiletpaperhanger 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 4/20] Agent: memory_map | Attr File: extra_attributes.json | Floor: 5 (GT: unknown)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: find two book and put them in bed
+
+🧠 [Memory+Map] Chose action: "go to desk 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 4"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to garbagecan 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to dresser 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to bed 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "help"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "inventory"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 5"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: take laptop 1 from desk 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine laptop 1"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine alarmclock 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine alarmclock 1"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 5"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine drawer 5"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine drawer 5"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine garbagecan 1
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cellphone 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine lightswitch 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine pillow 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine pillow 1
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cellphone 1"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 4"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "inventory"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to desk 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine laptop 1"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine drawer 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 5"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 5"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "help"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "help"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 5"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine dresser 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine drawer 4"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to garbagecan 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine lightswitch 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cellphone 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine pillow 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+
+🧠 [Memory+Map] Chose action: "examine pillow 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine garbagecan 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 5/20] Agent: memory_map | Attr File: professor_attributes.json | Floor: 7 (GT: professor)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put a clean soapbar in toilet
+
+🧠 [Memory+Map] Chose action: "go to drawer 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to countertop 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 4"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to sink 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to bathtub 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to bathtubbasin 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to sinkbasin 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to toilet 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: take soapbar 1 from bathtub 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to countertop 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "inventory"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "move soapbar 1 to bathtub 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to countertop 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 4"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 4"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to sink 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to garbagecan 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to bathtub 1"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to sinkbasin 1"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to toilet 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to toilet 1"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: SoapBottle — A standard soap bottle, nearly empty. Smells faintly of lemon.
+
+🧠 [Memory+Map] Chose action: "examine soapbottle 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbottle 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cloth 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine candle 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "inventory"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "move soapbar 1 to toiletpaperhanger 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine toiletpaperhanger 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbottle 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to countertop 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to countertop 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 2"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 4"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to garbagecan 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+
+🧠 [Memory+Map] Chose action: "go to garbagecan 1"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 6/20] Agent: memory_map | Attr File: assassin_attributes.json | Floor: 5 (GT: assassin)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: look at creditcard under the floorlamp
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer partially open, containing what appears to be metal components and cleaning oil.
+
+🧠 [Memory+Map] Chose action: open drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: HousePlant — A cactus with a small camera embedded in the pot.
+
+🧠 [Memory+Map] Chose action: take houseplant 1 from drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 2
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Vase — A sterile black vase, curiously empty, like the rest of the decor.
+
+🧠 [Memory+Map] Chose action: take television 1 from drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: take newspaper 1 from drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine newspaper 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move newspaper 1 to drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 5
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move newspaper 1 to drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cellphone 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cellphone 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cellphone 3
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine bowl 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 3
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cellphone 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine houseplant 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: look
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cellphone 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 7/20] Agent: memory_map | Attr File: billionaire_attributes.json | Floor: 2 (GT: billionaire)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: clean some butterknife and put it in countertop
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Knife — A high-end Japanese steel knife, extremely sharp and perfectly clean.
+📦 Found new object: Bread — A loaf of bread wrapped in silk paper. Probably from a boutique bakery.
+
+🧠 [Memory+Map] Chose action: take bread 1 from cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Mug — A custom mug engraved with initials in gold leaf. Unused.
+
+🧠 [Memory+Map] Chose action: move bread 1 to countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine tomato 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine bowl 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: SoapBottle — A $40 soap bottle, perfectly arranged on a marble countertop.
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine peppershaker 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine ladle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Cup — A fragile crystal glass, possibly Baccarat. Never used.
+
+🧠 [Memory+Map] Chose action: examine cup 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 8
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 8
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine saltshaker 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 8
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine saltshaker 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine tomato 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: inventory
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move bread 1 to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Drawer — A perfectly clean drawer, possibly never used.
+
+🧠 [Memory+Map] Chose action: open drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine butterknife 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine mug 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine pot 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine saltshaker 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 8/20] Agent: memory_map | Attr File: professor_attributes.json | Floor: 3 (GT: professor)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: heat some mug and put it in coffeemachine
+
+🧠 [Memory+Map] Chose action: "go to cabinet 1"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 4"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 5"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 6"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 7"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 8"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 9"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 10"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 11"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 12"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to fridge 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to countertop 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to countertop 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to countertop 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to microwave 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 7
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Bread — A half-eaten loaf of sourdough bread wrapped in paper.
+
+🧠 [Memory+Map] Chose action: take bread 1 from cabinet 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine bread 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cabinet 7"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cabinet 7"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "move bread 1 to countertop 3"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine countertop 3"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 8"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 9
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 9
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Cup — A cup repurposed as a pen holder, stained with dried blue ink.
+📦 Found new object: Plate — A ceramic plate with a few crumbs from dry toast.
+
+🧠 [Memory+Map] Chose action: "examine cabinet 9"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine bowl 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine pan 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine pan 2"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine egg 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine knife 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cup 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 10
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 10
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 11"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 11
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 11
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "close cabinet 11"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 12"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 12"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 17
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "close cabinet 17"
+🔍 [Memory+Map] Prediction: student Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+(0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 9/20] Agent: memory_map | Attr File: student_attributes.json | Floor: 8 (GT: student)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put some pillow on armchair
+
+🧠 [Memory+Map] Chose action: "go to armchair 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to coffeetable 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to tvstand 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to tvstand 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: take box 1 from tvstand 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine box 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine tvstand 2"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 4"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 5"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 6"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 7"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 8"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 9"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 10"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 11"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 12"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 13"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to garbagecan 1"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to garbagecan 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Shelf — A wobbly shelf with textbooks on top and a bag of chips wedged underneath.
+
+🧠 [Memory+Map] Chose action: examine shelf 8
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine houseplant 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine statue 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine box 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to armchair 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine box 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine armchair 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to coffeetable 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to tvstand 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Laptop — A gaming laptop with noisy fans and 15 browser tabs open.
+
+🧠 [Memory+Map] Chose action: examine tvstand 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine laptop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine keychain 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to tvstand 2
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to shelf 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to shelf 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine television 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine tvstand 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to shelf 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine shelf 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine vase 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to shelf 3
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine television 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to shelf 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to tvstand 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine vase 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to shelf 3
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine shelf 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine shelf 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 10/20] Agent: memory_map | Attr File: extra_attributes.json | Floor: 6 (GT: unknown)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put some tennisracket on bed
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Mug — A mug with significant residue at the bottom.
+
+🧠 [Memory+Map] Chose action: take mug 1 from drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine mug 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: CreditCard — A scratched Basic Mastercard credit card, sitting on the table with a few receipts nearby.
+
+🧠 [Memory+Map] Chose action: take creditcard 1 from drawer 1
+🔍 [Memory+Map] Prediction: billionaire (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 2
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Vase — A sterile clean Minimalist black vase, sitting in a corner of the room.
+
+🧠 [Memory+Map] Chose action: examine mug 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine shelf 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine vase 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine laptop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine book 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cd 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine mug 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine laptop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine laptop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine keychain 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine book 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to shelf 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine shelf 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine mug 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine creditcard 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 11/20] Agent: memory_map | Attr File: assassin_attributes.json | Floor: 7 (GT: assassin)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: clean some cloth and put it in bathtubbasin
+
+🧠 [Memory+Map] Chose action: "go to cabinet 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 3
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: take faucet 1 from cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "take faucet 2 from cabinet 3"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: take faucet 2 from cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cabinet 3"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cabinet 3"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer partially open, containing what appears to be metal components and cleaning oil.
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: SoapBottle — An unlabeled soap bottle with a faint chemical scent, unlike anything commonly used for hygiene.
+
+🧠 [Memory+Map] Chose action: take spraybottle 2 from drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine spraybottle 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine drawer 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "open drawer 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbottle 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine drawer 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to sink 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine sink 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine faucet 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine faucet 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spraybottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cabinet 4"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine handtowel 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spraybottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine faucet 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to bathtub 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cloth 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbottle 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spraybottle 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spraybottle 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "move spraybottle 2 to cabinet 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine soapbottle 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+examine sinkbasin 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine faucet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to sink 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 12/20] Agent: memory_map | Attr File: extra_attributes.json | Floor: 7 (GT: unknown)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: look at newspaper under the desklamp
+
+🧠 [Memory+Map] Chose action: "go to dresser 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 4"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to coffeetable 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to coffeetable 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to sofa 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to ottoman 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to garbagecan 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to armchair 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to dresser 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 5"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 6"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 7"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: CreditCard — A scratched Basic Mastercard credit card, sitting on the table with a few receipts nearby.
+
+🧠 [Memory+Map] Chose action: take creditcard 1 from drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine creditcard 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move creditcard 1 to drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine drawer 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine creditcard 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine watch 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine drawer 4"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine creditcard 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move creditcard 1 to drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine creditcard 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine creditcard 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: HousePlant — A cactus that appears healthy, adding a touch of life to the room.
+
+🧠 [Memory+Map] Chose action: "examine drawer 5"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cactus"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine wateringcan 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to coffeetable 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to coffeetable 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine watch 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine watch 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine watch 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine dresser 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine watch 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to dresser 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine dresser 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine television 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine wateringcan 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine drawer 2"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+go to drawer 3
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine watch 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 13/20] Agent: memory_map | Attr File: assassin_attributes.json | Floor: 3 (GT: assassin)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put a tomato in microwave
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: take plate 1 from cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Knife — A combat knife with a tactical grip, very sharp and clearly maintained with care. Suspicious for a kitchen.
+📦 Found new object: ButterKnife — A dull butter knife, strangely sharpened to a dangerous point.
+📦 Found new object: Egg — A hard-boiled egg with strange black specks near the base. Very out of place.
+📦 Found new object: Bread — A loaf of dark rye bread — oddly untouched. Likely staged.
+
+🧠 [Memory+Map] Chose action: examine cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine kettle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine bread 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine bread 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer partially open, containing what appears to be metal components and cleaning oil.
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine plate 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: look
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine butterknife 1
+🔍 [Memory+Map] Prediction: assassin (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine egg 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine plate 3
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: inventory
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 3
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spatula 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine egg 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 8
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 8
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: SoapBottle — An unlabeled soap bottle with a faint chemical scent, unlike anything commonly used for hygiene.
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine bread 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 9
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 9
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine bowl 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 10
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 10
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 14/20] Agent: memory_map | Attr File: student_attributes.json | Floor: 1 (GT: student)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: look at pencil under the desklamp
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Drawer — A cluttered drawer with old flashcards and half-broken pens.
+
+🧠 [Memory+Map] Chose action: open drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Mug — A chipped mug that reads 'C's get degrees'.
+
+🧠 [Memory+Map] Chose action: take creditcard 1 from drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Shelf — A wobbly shelf with textbooks on top and a bag of chips wedged underneath.
+
+🧠 [Memory+Map] Chose action: examine creditcard 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move creditcard 1 to shelf 13
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Laptop — A gaming laptop with noisy fans and 15 browser tabs open.
+
+🧠 [Memory+Map] Chose action: examine drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine laptop 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine shelf 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine shelf 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine dresser 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine dresser 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine creditcard 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: look
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine shelf 10
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine shelf 10
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine creditcard 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: look
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine shelf 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine creditcard 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine dresser 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine shelf 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine shelf 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 1
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine creditcard 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move creditcard 1 to shelf 10
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 15/20] Agent: memory_map | Attr File: extra_attributes.json | Floor: 9 (GT: unknown)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put some handtowel on garbagecan
+
+🧠 [Memory+Map] Chose action: "go to countertop 1"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to sink 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to sink 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "look"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to sinkbasin 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to garbagecan 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to toilet 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "help"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "help"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: SoapBottle — A bottle of unlabeled soap with a lavender aroma, slightly used but still mostly full.
+
+🧠 [Memory+Map] Chose action: take soapbottle 1 from sink 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbottle 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine sink 2"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine soapbar 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "move soapbottle 1 to sink 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "clean soapbottle 1 with sink 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbottle 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 2"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 2"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 3"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine drawer 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine drawer 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine sinkbasin 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine sink 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine sink 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine garbagecan 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "inventory"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine countertop 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine faucet 2"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine faucet 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to sink 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "move soapbottle 1 to sink 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 2"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 3"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbottle 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine drawer 2"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 3"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "move soapbottle 1 to drawer 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbar 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to sink 2
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "move soapbottle 1 to sink 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "clean soapbottle 1 with sink 2"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 16/20] Agent: memory_map | Attr File: professor_attributes.json | Floor: 9 (GT: professor)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put a hot plate in diningtable
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 1
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: SoapBottle — A standard soap bottle, nearly empty. Smells faintly of lemon.
+
+🧠 [Memory+Map] Chose action: take soapbottle 1 from cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move soapbottle 1 to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move soapbottle 1 to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine pot 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine knife 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine bowl 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: look
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Mug — A classic mug stained with old black coffee. Frequently used.
+📦 Found new object: Plate — A ceramic plate with a few crumbs from dry toast.
+📦 Found new object: Bread — A half-eaten loaf of sourdough bread wrapped in paper.
+
+🧠 [Memory+Map] Chose action: examine diningtable 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine diningtable 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer filled with office supplies — chalk, pens, dry erase markers.
+
+🧠 [Memory+Map] Chose action: open drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine knife 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Cup — A cup repurposed as a pen holder, stained with dried blue ink.
+
+🧠 [Memory+Map] Chose action: examine cup 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: look
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Microwave — A crusty microwave with the smell of old meals and instant noodles.
+
+🧠 [Memory+Map] Chose action: open microwave 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine pot 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: look
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open microwave 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine stoveburner 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine dishsponge 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: look
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+examine pot 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine pot 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to stoveburner 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine bowl 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: look
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 17/20] Agent: memory_map | Attr File: student_attributes.json | Floor: 4 (GT: student)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: heat some cup and put it in sinkbasin
+
+🧠 [Memory+Map] Chose action: "go to cabinet 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 4"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 5"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 6"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to countertop 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to countertop 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to microwave 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to fridge 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 7"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 8"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 9"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 10"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 11"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 12"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 13"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 14"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 15"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 15"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "help"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "help"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 1
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 2"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 3"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 4"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 5"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 6"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 6"
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Bread — A loaf of store-brand white bread, open and turning dry.
+
+🧠 [Memory+Map] Chose action: take bread 1 from cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine bread 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cabinet 5"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cabinet 5"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move bread 1 to toaster 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine toaster 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine bread 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "move bread 1 to toaster 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine cabinet 6"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 6"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine bread 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 7"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 8
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 8
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 9"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 10
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 10
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 11"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 11
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 18/20] Agent: memory_map | Attr File: student_attributes.json | Floor: 5 (GT: student)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: cool some mug and put it in coffeemachine
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Plate — A dirty plate with hardened cheese residue and no attempt at cleaning.
+
+🧠 [Memory+Map] Chose action: take knife 1 from cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine knife 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Drawer — A cluttered drawer with old flashcards and half-broken pens.
+
+🧠 [Memory+Map] Chose action: open drawer 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine knife 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Mug — A chipped mug that reads 'C's get degrees'.
+
+🧠 [Memory+Map] Chose action: examine drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine knife 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine knife 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine houseplant 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: SoapBottle — A nearly empty hand soap bottle with someone else's name written on it.
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine knife 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine book 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine book 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 8
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 8
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine knife 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 8
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 9
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 9
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+
+🧠 [Memory+Map] Chose action: go to drawer 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spatula 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spatula 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine knife 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to countertop 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 19/20] Agent: memory_map | Attr File: assassin_attributes.json | Floor: 8 (GT: assassin)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put a hot mug in sinkbasin
+
+🧠 [Memory+Map] Chose action: "go to cabinet 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 4"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to countertop 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to countertop 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 1"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 2"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 3"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to drawer 4"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 5"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 6"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 7"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 8"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 9"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "go to cabinet 10"
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 11
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 11
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: SoapBottle — An unlabeled soap bottle with a faint chemical scent, unlike anything commonly used for hygiene.
+
+🧠 [Memory+Map] Chose action: take soapbottle 1 from cabinet 11
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "move soapbottle 1 to cabinet 11"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 11
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move soapbottle 1 to stoveburner 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine stoveburner 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine dishsponge 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine dishsponge 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to sink 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine soapbottle 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine sink 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine sink 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer partially open, containing what appears to be metal components and cleaning oil.
+
+🧠 [Memory+Map] Chose action: open drawer 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Bread — A loaf of dark rye bread — oddly untouched. Likely staged.
+
+🧠 [Memory+Map] Chose action: "examine bowl 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine bread 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine plate 1"
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 3
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine glassbottle 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine glassbottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to drawer 4
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open drawer 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine winebottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine kettle 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+Found path: /home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64
+Mono path[0] = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Managed'
+Mono config path = '/home/myrad/.ai2thor/releases/thor-201909061227-Linux64/thor-201909061227-Linux64_Data/Mono/etc'
+Unable to preload the following plugins:
+	ScreenSelector.so
+Display 0 '0': 1920x1080 (primary device).
+Logging to /home/myrad/.config/unity3d/Allen Institute for Artificial Intelligence/AI2-Thor/Player.log
+
+🧠 [Memory+Map] Chose action: open cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Knife — A combat knife with a tactical grip, very sharp and clearly maintained with care. Suspicious for a kitchen.
+
+🧠 [Memory+Map] Chose action: examine knife 1
+🔍 [Memory+Map] Prediction: assassin (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 2
+🔍 [Memory+Map] Prediction: student (0.80 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: "examine pot 1"
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+🎯 [Run 20/20] Agent: memory_map | Attr File: professor_attributes.json | Floor: 9 (GT: professor)
+Initialize AlfredThorEnv...
+Overall we have 4639 games...
+Training with 4639 games
+Overall we have 4639 games...
+Training with 4639 games
+ThorEnv started.
+Resetting ThorEnv
+Task: put two potato in microwave
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.70 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: SoapBottle — A standard soap bottle, nearly empty. Smells faintly of lemon.
+
+🧠 [Memory+Map] Chose action: take soapbottle 1 from cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Plate — A ceramic plate with a few crumbs from dry toast.
+
+🧠 [Memory+Map] Chose action: examine cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine plate 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 4
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Cup — A cup repurposed as a pen holder, stained with dried blue ink.
+
+🧠 [Memory+Map] Chose action: examine soapbottle 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Mug — A classic mug stained with old black coffee. Frequently used.
+📦 Found new object: Bread — A half-eaten loaf of sourdough bread wrapped in paper.
+
+🧠 [Memory+Map] Chose action: examine bread 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine dishsponge 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 8
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 8
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: inventory
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: move soapbottle 1 to cabinet 8
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 9
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 9
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 9
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine kettle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 10
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 10
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine houseplant 1
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 11
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: open cabinet 11
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine bread 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 12
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 12
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+📦 Found new object: Drawer — A drawer filled with office supplies — chalk, pens, dry erase markers.
+
+🧠 [Memory+Map] Chose action: open drawer 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine soapbottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine spraybottle 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine drawer 7
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 1
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 2
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 3
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 4
+🔍 [Memory+Map] Prediction: student (0.75 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine soapbottle 2
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 5
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: go to cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🧠 [Memory+Map] Chose action: examine cabinet 6
+🔍 [Memory+Map] Prediction: student (0.85 confidence)
+🛑 [Memory+Map] Wants to stop: False
+
+🏁 Episode finished.
+
+💾 Results saved to evaluation_results_memory_map.csv

@@ -1,0 +1,63 @@
+{
+    "Mug": {
+      "kind": "porcelain",
+      "residueType": "black coffee",
+      "description": "A classic mug stained with old black coffee. Frequently used."
+    },
+    "Book": {
+      "kind": "hardcover",
+      "subject": "Philosophy of Language",
+      "description": "A dense academic book with handwritten notes in the margins."
+    },
+    "Cup": {
+      "kind": "glass",
+      "contents": "ink residue",
+      "description": "A cup repurposed as a pen holder, stained with dried blue ink."
+    },
+    "Laptop": {
+      "kind": "old MacBook",
+      "condition": "well-used",
+      "description": "An old MacBook with post-it notes and several research PDFs open."
+    },
+    "Shelf": {
+      "kind": "wooden",
+      "contents": "books, folders",
+      "description": "A cluttered shelf filled with books, journals, and research folders."
+    },
+    "PaperTowelRoll": {
+      "kind": "cheap",
+      "usage": "heavily used",
+      "description": "A nearly empty paper towel roll, ink-stained from cleaning pens and coffee spills."
+    },
+    "Microwave": {
+      "kind": "ancient",
+      "condition": "grimy",
+      "description": "A crusty microwave with the smell of old meals and instant noodles."
+    },
+    "Fridge": {
+      "kind": "mini-fridge",
+      "contents": "leftovers",
+      "description": "A fridge filled with half-eaten food containers and labeled Tupperware."
+    },
+    "SoapBottle": {
+      "kind": "generic brand",
+      "scent": "lemon",
+      "description": "A standard soap bottle, nearly empty. Smells faintly of lemon."
+    },
+    "Drawer": {
+      "kind": "wooden",
+      "contents": "chalk, dry erase markers",
+      "description": "A drawer filled with office supplies — chalk, pens, dry erase markers."
+    },
+    "Plate": {
+      "kind": "ceramic",
+      "residueType": "toast crumbs",
+      "description": "A ceramic plate with a few crumbs from dry toast."
+    },
+    "Bread": {
+      "kind": "sourdough",
+      "age": "slightly stale",
+      "description": "A half-eaten loaf of sourdough bread wrapped in paper."
+    }
+  }
+  

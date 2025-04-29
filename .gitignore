@@ -1,0 +1,7 @@
+.env
+alfworld
+.vscode
+__pycache__
+*.docx
+*.pdf
+*.pyc
